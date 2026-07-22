@@ -5,7 +5,7 @@ void setup() {
 }
 
 void loop() {
-  Fade in
+  // Fade in
   for (int i = 0; i <= 255; i++) {
     analogWrite(led, i);
     delay(10);
