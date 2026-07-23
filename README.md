@@ -5,7 +5,7 @@ Welcome to my **Arduino Learning Repository**!
 
 This repository contains all the Arduino projects, experiments, and mini-projects I build while learning Embedded Systems and IoT.
 
-I believe the best way to learn is by building real projects. Every upload represents a new concept I've explored, from blinking an LED to creating sensor-based systems.
+I believe the best way to learn is by building real projects. Every upload represents a new concept I've explored, from blinking an LED to creating sensor-based systems and lots of more.
 
 ---
 
@@ -37,13 +37,20 @@ I believe the best way to learn is by building real projects. Every upload repre
 - Buzzer
 - Ultrasonic Sensor (HC-SR04)
 - Flame Sensor
+- Smoke Detector Sensor
 - IR Sensor
-- Servo Motor *(Coming Soon)*
-- LCD Display *(Coming Soon)*
+- PIR Sensor (HC-SR501)
+- RFID Sensors
+- Flying Fish
+- Servo Motor(SG-90)
+- Temperature and Humidity Sensor Module
+- LCD Display
+- 7-Segment Number Display
+- Touch Sensor
+- Laser Sensor (HW-493)
 
 ---
 
----
 
 # 🚀 Completed Projects
 
@@ -57,25 +64,6 @@ I believe the best way to learn is by building real projects. Every upload repre
 | 06 | Ultrasonic Sensor    | ✅      |
 | 07 | Distance Alarm       | ✅      |
 | 08 | Flame Detector       | 🚧     |
-
----
-
-# 📈 Learning Progress
-
-```text
-Arduino Basics      ██████████ 100%
-
-Digital I/O         ██████████ 100%
-
-PWM                 █████████░ 90%
-
-Sensors             ███████░░░ 70%
-
-Communication       ██░░░░░░░░ 20%
-
-IoT                 █░░░░░░░░░ 10%
-```
-
 
 ---
 
@@ -130,4 +118,4 @@ If you like this repository,
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0066FF&height=120&section=footer"/>
 
 </div>
-```
+
