@@ -1,17 +1,3 @@
-````markdown
-<div align="center">
-
-# 🚀 Arduino Projects
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+My+Arduino+Journey!;Learning+Embedded+Systems;Building+Real+World+Projects;Code.+Build.+Learn.+Repeat.🚀" />
-
-<img src="https://skillicons.dev/icons?i=arduino,cpp,c,github,vscode&perline=5" />
-
-![Profile Views](https://komarev.com/ghpvc/?username=Sdeygit13&label=Repository+Views&color=0e75b6&style=for-the-badge)
-
-</div>
-
----
 
 # 📖 About This Repository
 
@@ -56,22 +42,6 @@ I believe the best way to learn is by building real projects. Every upload repre
 - LCD Display *(Coming Soon)*
 
 ---
-
-# 📂 Repository Structure
-
-```text
-Arduino/
-│
-├── 01_LED_Blink/
-├── 02_Traffic_Light/
-├── 03_Push_Button/
-├── 04_LED_Fade/
-├── 05_Buzzer/
-├── 06_Ultrasonic_Sensor/
-├── 07_Distance_Alarm/
-├── 08_Flame_Detector/
-├── README.md
-````
 
 ---
 
